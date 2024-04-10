@@ -1,0 +1,5 @@
+name: "Go Container Action Template"
+description: "Get started with Go Container actions"
+runs:
+  using: docker
+  image: Dockerfile
